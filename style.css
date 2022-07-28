@@ -7,7 +7,7 @@ footer {
     color: white;
 }
 
-@media only screen and (max-device-width: 400px) {
+@media only screen and (max-device-width: 576px) {
     .row-width {
         width: 300px;
     }
