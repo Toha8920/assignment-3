@@ -2,8 +2,12 @@
     filter: brightness(50%);
 }
 
-@media only screen and (max-device-width: 375px) {
+@media only screen and (max-device-width: 400px) {
     .row-width {
         width: 300px;
+    }
+
+    .company-area {
+        display: none;
     }
 }
